@@ -1,4 +1,5 @@
-Bulk Email Sender with Mailgun API
+Bulk Email Sender with Mailgun API.
+
 This Python script uses the Mailgun API to send bulk emails to a list of customers categorized by their email domain. The script reads customer data from a CSV file, categorizes customers based on their email domain, and sends different emails to each category. You can customize the message subjects and bodies for each category by editing the script.
 
 Requirements
